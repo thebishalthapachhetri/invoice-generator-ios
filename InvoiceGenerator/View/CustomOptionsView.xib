@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CustomOptionView" customModule="InvoiceGenerator">
+            <connections>
+                <outlet property="contentView" destination="iN0-l3-epB" id="QYT-PS-28W"/>
+                <outlet property="helpButton" destination="Sko-gV-deO" id="brn-hJ-R5o"/>
+                <outlet property="shareButton" destination="VVx-kF-LaX" id="AsY-Xk-7Kq"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="200" height="120"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Sko-gV-deO">
+                    <rect key="frame" x="0.0" y="6" width="200" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="Tek-8m-FCp"/>
+                    </constraints>
+                    <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" image="info.circle.fill" catalog="system">
+                        <attributedString key="attributedTitle">
+                            <fragment content="    Help">
+                                <attributes>
+                                    <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="18" name="Helvetica-Bold"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                        </attributedString>
+                    </buttonConfiguration>
+                    <connections>
+                        <action selector="helpButtonTapped:" destination="-1" eventType="touchUpInside" id="2JX-3i-jfT"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VVx-kF-LaX">
+                    <rect key="frame" x="0.0" y="64" width="200" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="xpT-hd-fNf"/>
+                    </constraints>
+                    <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" image="square.and.arrow.up.fill" catalog="system" title="   Share">
+                        <fontDescription key="titleFontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="18"/>
+                    </buttonConfiguration>
+                    <connections>
+                        <action selector="shareButtonTapped:" destination="-1" eventType="touchUpInside" id="ztg-MW-97E"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NtX-bH-eeZ">
+                    <rect key="frame" x="10" y="60" width="180" height="1"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="J2S-29-sON"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" red="0.92143100499999997" green="0.92145264149999995" blue="0.92144101860000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="Sko-gV-deO" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="6Ck-dj-8Wy"/>
+                <constraint firstItem="NtX-bH-eeZ" firstAttribute="top" secondItem="Sko-gV-deO" secondAttribute="bottom" constant="4" id="6JN-Y1-laP"/>
+                <constraint firstItem="Sko-gV-deO" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="FM1-t1-Od4"/>
+                <constraint firstItem="NtX-bH-eeZ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="10" id="Kvh-jn-ozd"/>
+                <constraint firstItem="VVx-kF-LaX" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="MBG-0I-4Vq"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="VVx-kF-LaX" secondAttribute="bottom" constant="6" id="PKm-9o-wZT"/>
+                <constraint firstItem="VVx-kF-LaX" firstAttribute="top" secondItem="Sko-gV-deO" secondAttribute="bottom" constant="8" symbolic="YES" id="VS6-Ee-aGR"/>
+                <constraint firstItem="Sko-gV-deO" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="6" id="cAa-ii-LF8"/>
+                <constraint firstItem="VVx-kF-LaX" firstAttribute="top" secondItem="NtX-bH-eeZ" secondAttribute="bottom" constant="3" id="kLo-vf-Rv7"/>
+                <constraint firstItem="VVx-kF-LaX" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="n8b-DD-xKn"/>
+                <constraint firstAttribute="trailing" secondItem="NtX-bH-eeZ" secondAttribute="trailing" constant="10" id="sGz-gj-Vps"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="244.92753623188409" y="93.080357142857139"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="info.circle.fill" catalog="system" width="128" height="121"/>
+        <image name="square.and.arrow.up.fill" catalog="system" width="115" height="128"/>
+    </resources>
+</document>

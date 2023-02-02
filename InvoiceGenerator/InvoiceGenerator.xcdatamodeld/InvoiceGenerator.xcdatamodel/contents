@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21C52" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="CustomerInfo" representedClassName="CustomerInfo" syncable="YES" codeGenerationType="class">
+        <attribute name="customerinfo" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <entity name="InvoiceDetails" representedClassName="InvoiceDetails" syncable="YES" codeGenerationType="class">
+        <attribute name="productinfo" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <entity name="UserInfo" representedClassName="UserInfo" syncable="YES" codeGenerationType="class">
+        <attribute name="credentials" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <elements>
+        <element name="CustomerInfo" positionX="-36" positionY="27" width="128" height="44"/>
+        <element name="InvoiceDetails" positionX="-54" positionY="18" width="128" height="44"/>
+        <element name="UserInfo" positionX="-63" positionY="-18" width="128" height="44"/>
+    </elements>
+</model>

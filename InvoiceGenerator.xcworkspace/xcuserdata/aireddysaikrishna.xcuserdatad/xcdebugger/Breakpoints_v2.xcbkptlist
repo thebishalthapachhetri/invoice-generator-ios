@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7430008D-4AEB-4E01-AE91-1CEEA5C96239"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "853899FD-7FC4-4063-B5BA-6D6C9A529A82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Storage/NSObject+Storage.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "-deleteInfo:withEntity:withKey:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84DFEC94-BE65-4257-A849-933C3126874C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Storage/NSObject+Storage.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "-deleteInfo:withEntity:withKey:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21948BC5-FF70-42FA-8668-00A29EE1D76E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Storage/NSObject+Storage.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-deleteInfo:withEntity:withKey:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88215382-D475-427E-B034-694A28600F6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "460"
+            endingLineNumber = "460"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83B1CF07-7EF8-428F-A673-C81FFBCEC125"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "464"
+            endingLineNumber = "464"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE1A0975-46A3-48D4-893F-B066213C82EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "466"
+            endingLineNumber = "466"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21848AB5-0F61-4FC0-9F03-5018E6DA5056"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "470"
+            endingLineNumber = "470"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21848AB5-0F61-4FC0-9F03-5018E6DA5056 - 2db0dd7544bee78f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "470"
+                  endingLineNumber = "470"
+                  offsetFromSymbolStart = "18355">
+               </Location>
+               <Location
+                  uuid = "21848AB5-0F61-4FC0-9F03-5018E6DA5056 - 2db0dd7544bee78f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "470"
+                  endingLineNumber = "470"
+                  offsetFromSymbolStart = "18367">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C15B395E-63F4-4F5C-823B-1B2AE8F50C4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "473"
+            endingLineNumber = "473"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C15B395E-63F4-4F5C-823B-1B2AE8F50C4B - 2db0dd7544bee7ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "473"
+                  endingLineNumber = "473"
+                  offsetFromSymbolStart = "19361">
+               </Location>
+               <Location
+                  uuid = "C15B395E-63F4-4F5C-823B-1B2AE8F50C4B - 2db0dd7544bee7ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "473"
+                  endingLineNumber = "473"
+                  offsetFromSymbolStart = "19373">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E29C0AD9-EB37-483E-9621-8DDC02FDC5B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "476"
+            endingLineNumber = "476"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E29C0AD9-EB37-483E-9621-8DDC02FDC5B6 - 2db0dd7544bef845"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "476"
+                  endingLineNumber = "476"
+                  offsetFromSymbolStart = "20367">
+               </Location>
+               <Location
+                  uuid = "E29C0AD9-EB37-483E-9621-8DDC02FDC5B6 - 2db0dd7544bef845"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "476"
+                  endingLineNumber = "476"
+                  offsetFromSymbolStart = "20379">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D74C610-882E-443D-9072-C7B5D97A52C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "407"
+            endingLineNumber = "407"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D74C610-882E-443D-9072-C7B5D97A52C8 - 2db0dd7544beef68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "407"
+                  endingLineNumber = "407"
+                  offsetFromSymbolStart = "1550">
+               </Location>
+               <Location
+                  uuid = "4D74C610-882E-443D-9072-C7B5D97A52C8 - 2db0dd7544beef68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "407"
+                  endingLineNumber = "407"
+                  offsetFromSymbolStart = "1559">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13D235FB-ACE6-48EA-AAB0-E6F7EAE6BE4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "403"
+            endingLineNumber = "403"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13D235FB-ACE6-48EA-AAB0-E6F7EAE6BE4B - 2db0dd7544beeeec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "403"
+                  endingLineNumber = "403"
+                  offsetFromSymbolStart = "771">
+               </Location>
+               <Location
+                  uuid = "13D235FB-ACE6-48EA-AAB0-E6F7EAE6BE4B - 2db0dd7544beeeec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[InvoiceDetailsViewController textField:shouldChangeCharactersInRange:replacementString:]"
+                  moduleName = "InvoiceGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aireddysaikrishna/Downloads/InvoiceGenerator/InvoiceGenerator/Controller/InvoiceDetailController/InvoiceDetailsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "403"
+                  endingLineNumber = "403"
+                  offsetFromSymbolStart = "780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
